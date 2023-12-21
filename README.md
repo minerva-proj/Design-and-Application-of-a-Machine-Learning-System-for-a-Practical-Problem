@@ -11,13 +11,13 @@ This project was completed as part of the coursework for CE802. It encompasses t
 
 - **Objective**: Comparative analysis of machine learning techniques using historical data to predict customers facing energy cost difficulties.
 - **Files**:
-  - [CE802_P2_Notebook.ipynb](link/to/CE802_P2_Notebook.ipynb): Jupyter Notebook containing Python code for comparative analysis.
+  - CE802_P2_Notebook.ipynb: Jupyter Notebook containing Python code for comparative analysis.
 
 ### 3. Additional Comparative Study
 
 - **Objective**: Designing a system to predict annual expenditure variations due to energy cost increases.
 - **Files**:
-  - [CE802_P3_Notebook.ipynb](link/to/CE802_P3_Notebook.ipynb): Jupyter Notebook containing Python code for predicting annual expenditure variations.
+  - CE802_P3_Notebook.ipynb: Jupyter Notebook containing Python code for predicting annual expenditure variations.
 
 ## Instructions
 
